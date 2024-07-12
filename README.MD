@@ -11,7 +11,7 @@ EVM :
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Mnuralim/pingpong-bot.git
+git clone https://github.com/dlzvy/PINGPONG-BOT.git
 ```
 
 ```
