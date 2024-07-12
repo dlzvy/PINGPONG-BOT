@@ -1,9 +1,9 @@
-Feel free donate to my EVM and address
+Feel free donate to my EVM address
 
 EVM :
 
 ```bash
-0x9902C3A98Df4b240ad5496cC26F89bAb8058f4aE
+0xCB797068B68323a9d046591009f5a715d0f17031
 ```
 
 ## Steps
@@ -47,6 +47,5 @@ npm run start
 
 ### Contact
 
-github : [Mnuralim](https://github.com/Mnuralim)
-twitter :[@Izzycracker04](https://twitter.com/Izzycracker04)
-telegram : [@fitriay19](https://t.me/fitriay19)
+github : [dlzvy](https://github.com/dlzvy)
+telegram : [@dlzvy](https://t.me/dlzvy)
