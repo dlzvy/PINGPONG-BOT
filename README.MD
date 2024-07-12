@@ -15,7 +15,7 @@ git clone https://github.com/dlzvy/PINGPONG-BOT.git
 ```
 
 ```
-cd pingpong-bot
+cd PINGPONG-BOT
 ```
 
 ### 2. Instal Dependency
